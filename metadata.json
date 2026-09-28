@@ -1,0 +1,6 @@
+{
+  "name": "STEAM Kit Reflection Lab",
+  "description": "Dynamic interactive reflection tool for After-School STEAM Kit activities tailored for TK-2, 3-6, and 7-12 grade bands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
